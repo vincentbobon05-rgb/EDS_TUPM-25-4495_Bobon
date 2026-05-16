@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+pandas
+numpy
+matplotlib
+seaborn
+pillow
+=======
 
+>>>>>>> adb9fc5a3738dcde79e8c651952153c45809a6c5
